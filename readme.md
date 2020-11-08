@@ -2,6 +2,22 @@
 
 Tutorial ministrado por [João Paulo Carvalho](https://jjpaulo2.github.io) na **Python Brasil 2020**. Estou no [GitHub](https://github.com/jjpaulo2), [Instagram](https://instagram.com/jjpaulo2) e [Telegram](https://t.me/jjpaulo2) como **@jjpaulo2**. [Acesse aqui](./slide.pdf) o slide utilizado no tutorial.
 
+---
+### Exemplos mostrados no tutorial por ordem de conteúdo
+
+1. [primeiro_jogo.py](./src/primeiro_jogo.py)
+2. [exemplo_loop_principal.py](./src/exemplo_loop_principal.py)
+3. [exemplo_clock.py](./src/exemplo_clock.py)
+4. [exemplo_eventos_teclado.py](./src/exemplo_eventos_teclado.py)
+5. [exemplo_retangulo.py](./src/exemplo_retangulo.py)
+5. [exemplo_colisao.py](./src/exemplo_colisao.py)
+7. [exemplo_superficie_imagem.py](./src/exemplo_superficie_imagem.py)
+8. [exemplo_retangulo.py](./src/exemplo_retangulo.py)
+9. [exemplo_musica.py](./src/exemplo_musica.py)
+10. [exemplo_sprites.py](./src/exemplo_sprites.py)
+
+---
+
 ### Por que PyGame?
 
 - Feito em Python.
