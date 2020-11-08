@@ -5,16 +5,16 @@ Tutorial ministrado por [João Paulo Carvalho](https://jjpaulo2.github.io) na **
 ---
 ### Exemplos mostrados no tutorial por ordem de conteúdo
 
-1. [primeiro_jogo.py](./src/primeiro_jogo.py)
-2. [exemplo_loop_principal.py](./src/exemplo_loop_principal.py)
-3. [exemplo_clock.py](./src/exemplo_clock.py)
-4. [exemplo_eventos_teclado.py](./src/exemplo_eventos_teclado.py)
-5. [exemplo_retangulo.py](./src/exemplo_retangulo.py)
-5. [exemplo_colisao.py](./src/exemplo_colisao.py)
-7. [exemplo_superficie_imagem.py](./src/exemplo_superficie_imagem.py)
-8. [exemplo_retangulo.py](./src/exemplo_retangulo.py)
-9. [exemplo_musica.py](./src/exemplo_musica.py)
-10. [exemplo_sprites.py](./src/exemplo_sprites.py)
+1. [primeiro_jogo.py](./exemplos/primeiro_jogo.py)
+2. [exemplo_loop_principal.py](./exemplos/exemplo_loop_principal.py)
+3. [exemplo_clock.py](./exemplos/exemplo_clock.py)
+4. [exemplo_eventos_teclado.py](./exemplos/exemplo_eventos_teclado.py)
+5. [exemplo_retangulo.py](./exemplos/exemplo_retangulo.py)
+5. [exemplo_colisao.py](./exemplos/exemplo_colisao.py)
+7. [exemplo_superficie_imagem.py](./exemplos/exemplo_superficie_imagem.py)
+8. [exemplo_retangulo.py](./exemplos/exemplo_retangulo.py)
+9. [exemplo_musica.py](./exemplos/exemplo_musica.py)
+10. [exemplo_sprites.py](./exemplos/exemplo_sprites.py)
 
 ---
 
