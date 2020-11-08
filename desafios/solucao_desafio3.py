@@ -10,6 +10,9 @@ ser clicado.
 """
 
 import pygame
+from pathlib import Path
+
+DIRETORIO_ATUAL = str(Path(__file__).parent.absolute())
 
 pygame.mixer.pre_init(44100, 16, 2, 1024)
 pygame.init()
@@ -21,8 +24,8 @@ quadro1 = pygame.Rect(10, 10, 50, 50)
 quadro2 = pygame.Rect(70, 10, 50, 50)
 
 musicas = [
-    "/home/jjpaulo2/musica1.wav",
-    "/home/jjpaulo2/musica2.wav"
+    DIRETORIO_ATUAL + "/src/musicas/musica1.wav",
+    DIRETORIO_ATUAL + "/src/musicas/musica2.wav",
 ]
 
 executando = True

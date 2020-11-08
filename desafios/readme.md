@@ -17,6 +17,11 @@ Construa um jogo com uma **imagem de cenário** e uma **imagem de personagem** q
 ### DESAFIO 3
 [**VER A SOLUÇÃO**](./solucao_desafio3.py)
 
+> | Arquivo | Música |
+> |-|-|
+> | `musica1.wav` | [Work - Chela Rivas](https://www.youtube.com/watch?v=WT0KTjtaS7M) |
+> | `musica2.wav` | [Nimbus - Eveningland](https://www.youtube.com/watch?v=AzYpHxNTAc0) |
+
 Construa um jogo com **dois retângulos** na tela. Cada um deve tocar uma música específica ao ser clicado.
 
 ![DESAFIO 3](../readme-src/desafio3.png)
