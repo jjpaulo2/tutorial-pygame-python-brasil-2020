@@ -1,6 +1,6 @@
 # CRIANDO O SEU PRIMEIRO JOGO COM PYTHON E PYGAME
 
-Tutorial ministrado por [João Paulo Carvalho](https://jjpaulo2.github.io) na **Python Brasil 2020**. Estou no [GitHub](https://github.com/jjpaulo2), [Instagram](https://instagram.com/jjpaulo2) e [Telegram](https://t.me/jjpaulo2) como **@jjpaulo2**.
+Tutorial ministrado por [João Paulo Carvalho](https://jjpaulo2.github.io) na **Python Brasil 2020**. Estou no [GitHub](https://github.com/jjpaulo2), [Instagram](https://instagram.com/jjpaulo2) e [Telegram](https://t.me/jjpaulo2) como **@jjpaulo2**. [Acesse aqui](./slide.pdf) o slide utilizado no tutorial.
 
 ### Por que PyGame?
 
@@ -347,7 +347,7 @@ class MeuSprite(pygame.sprite.Sprite):
 ```
 
 > ### DESAFIO 4
-> Adicione um pouco de movimento ao [**desafio 2**](). Implemente uma classe de sprites e dê vida ao seu personagem.
+> Adicione um pouco de movimento ao [**desafio 2**](#desafio-2). Implemente uma classe de sprites e dê vida ao seu personagem.
 >
 > ![DESAFIO 4](readme-src/desafio2-4.png)
 
